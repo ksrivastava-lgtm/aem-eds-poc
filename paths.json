@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/aem-eds-site/:/"
+    "/content/aem-eds-poc/:/"
   ],
   "includes": [
-    "/content/aem-eds-site/"
+    "/content/aem-eds-poc/"
   ]
 }
