@@ -1,10 +1,5 @@
 {
-  "project": "aem-eds-poc",
+  "project": "AEM XWalk Boilerplate",
   "editUrlLabel": "AEM Editor",
-  "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open",
-  "previewHost": "main--aem-eds-poc--ksrivastava-lgtm.aem.page",
-  "liveHost": "main--aem-eds-poc--ksrivastava-lgtm.aem.live",
-  "host": "main--aem-eds-poc--ksrivastava-lgtm.aem.live",
-  "contentSourceUrl": "https://author-p33904-e822614.adobeaemcloud.com",
-  "contentSourceType": "markup"
+  "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open"
 }
