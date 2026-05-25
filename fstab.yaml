@@ -1,4 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p33904-e822614.adobeaemcloud.com/bin/franklin.delivery/ksrivastava-lgtm/aem-eds-poc/main
-    type: markup
+    url: "https://author-p33904-e822614.adobeaemcloud.com/bin/franklin.delivery/ksrivastava-lgtm/aem-eds-poc/main"
+    type: "markup"
+    suffix: ".html"
