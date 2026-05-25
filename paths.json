@@ -1,8 +1,7 @@
 {
   "mappings": [
     "/content/aem-eds-poc/:/",
-    "/content/aem-eds-poc/configuration:/.helix/config.json",
-    "/content/aem-eds-poc/metadata:/metadata.json"
+    "/content/aem-eds-poc/configuration:/.helix/config.json"
   ],
   "includes": [
     "/content/aem-eds-poc/"
